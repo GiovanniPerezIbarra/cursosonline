@@ -1,0 +1,60 @@
+{
+  "cursos": [
+    {
+      "id": 1,
+      "titulo": "React desde cero",
+      "image": "https://edteam-media.s3.amazonaws.com/blogs/original/3a0fa242-1b90-42bf-831d-5ea432759ab0.jpg",
+      "price": 40,
+      "profesor": "Alberto Quiroga"
+    },
+    {
+      "id": 2,
+      "titulo": "Drupal desde cero",
+      "image": "https://documentacionhoy.com/sites/default/files/2018-09/drupal.jpg",
+      "price": 30,
+      "profesor": "Giovanni Perez"
+    },
+    {
+      "id": 3,
+      "titulo": "Go desde cero",
+      "image": "https://www.locurainformaticadigital.com/wp-content/uploads/2020/05/GO-lenguaje-de-programacion.jpg",
+      "price": 50,
+      "profesor": "Alexys Lozada"
+    },
+    {
+      "id": 4,
+      "titulo": "Angular desde cero",
+      "image": "https://bs-uploads.toptal.io/blackfish-uploads/blog/article/content/cover_image_file/cover_image/16959/cover-REDESIGN-StepByStepAngular-Luke_Newsletter-4ccf196e360a5790beaae921500d731c.png",
+      "price": 60,
+      "profesor": "Marcos Cervantes"
+    },
+    {
+      "id": 5,
+      "titulo": "PHP desde cero",
+      "image": "https://i1.wp.com/unaaldia.hispasec.com/wp-content/uploads/2019/09/Captura-de-pantalla-de-2019-09-07-04-06-35.png?fit=983%2C633&ssl=1",
+      "price": 55,
+      "profesor": "Guillermo Mateos"
+    },
+    {
+      "id": 6,
+      "titulo": "CSS desde cero",
+      "image": "https://wwwhatsnew.com/wp-content/uploads/2021/01/aprender-css.jpg",
+      "price": 90,
+      "profesor": "Cristina Vallesco"
+    },
+    {
+      "id": 7,
+      "titulo": "Python desde cero",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8CeQPcq9-PgH7GFXIGyfispzQ6WIKAxxIdw&usqp=CAU",
+      "price": 65,
+      "profesor": "Guadalupe Valdez"
+    },
+    {
+      "id": 8,
+      "titulo": "HTML desde cero",
+      "image": "https://miracomosehace.com/wp-content/uploads/2020/08/aumentar-sangria-wordpress.jpg",
+      "price": 10,
+      "profesor": "Alvaro Felipe"
+    }
+  ]
+}
